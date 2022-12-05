@@ -1,0 +1,6 @@
+{
+  "appTitle": "project_mesa",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
